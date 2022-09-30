@@ -1,0 +1,28 @@
+body{
+    font-size: 12px;
+}
+
+
+
+nav{
+    background-color: rgb(208, 184, 168,.6);
+    color: white;
+}
+
+#nav-list{
+    list-style: none;
+}
+
+.nav-icon{
+    float: right;
+    width: 12%;
+    margin-left: 5%;
+    
+}
+
+.progress-bar{
+    
+    background-color: #e3d4cb;
+    height: 100%;
+    width: 80%;
+}
