@@ -1,24 +1,21 @@
-#IBM-Project-37120-1660300572
+# IBM-Project-37120-1660300572
 
-#News Tracker Application
+# News Tracker Application :detective:
 
-Project Name	News Tracker Application
+| Project Name | News Tracker Application |
+| ------------- | ----------------------- |
+| Domain | Cloud Application Development |
+| Team Id | PNT2022TMID22947 |
+	
+## Team Members :
 
-Domain	Cloud Application Development
+| Team Leader  | Karunambika  S P |
+| Team Member 1  | Aohnin Misthika A |
+| Team Member 2  | Dharshini M |
+| Team Member 3  | Monisha  V |
 
-Team Id	PNT2022TMID24629
-
-#Team Members :
-
-Team Leader	Karunambika  S P
-
-Team Member 1	Aohnin Misthika A
-
-Team Member 2	Dharshini M
-
-Team Member 3	Monisha  V
-
-#Required Skills :
+## Skills Required :
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,js,flask,docker)](https://skills.thijs.gg)
 
 •	HTML, CSS, Java Script, 
 •	IBM Cloud Object Storage, 
