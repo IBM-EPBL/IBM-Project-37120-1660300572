@@ -8,14 +8,15 @@
 | Team Id | PNT2022TMID22947 |
 	
 ## Team Members :
-
+| Role | Name of Member |
+| ------------- | ----------------------- |
 | Team Leader  | Karunambika  S P |
 | Team Member 1  | Aohnin Misthika A |
 | Team Member 2  | Dharshini M |
 | Team Member 3  | Monisha  V |
 
 ## Skills Required :
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,js,flask,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,js,flask,docker,kubernetes,ibmdb2)](https://skills.thijs.gg)
 
 •	HTML, CSS, Java Script, 
 •	IBM Cloud Object Storage, 
@@ -25,9 +26,11 @@
 •	 IBM DB2, 
 •	IBM Container Registry.
 
-#Project  Idea :
+## Project  Idea :
 
 As our lives are very busy these days, we often feel we need more than 24 hrs. a day to cope up with everything we have in our schedule. Well, that's not possible but reducing the time by changing the conventional method of reading news can help. Just tell us what market news you're interested in and get a quick peek for the day. Only read what you feel is relevant and save your time. This app helps you to query for all information about Indices, Commodities, Currencies, Future Rates, Bonds, etc.… as on official websites.
+
+## Technology Architecture
 
 
 
