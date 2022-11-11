@@ -16,7 +16,7 @@
 | Team Member 3  | Monisha  V |
 
 ## Skills Required :
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,js,flask,docker,kubernetes,ibmdb2)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,python,flask,docker,kubernetes,ibmdb2)](https://skills.thijs.gg)
 
 •	HTML, CSS, Java Script, 
 •	IBM Cloud Object Storage, 
